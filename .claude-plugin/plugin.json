@@ -8,7 +8,8 @@
     "url": "https://www.f1ow.com"
   },
   "homepage": "https://www.f1ow.com",
-  "repository": "https://github.com/104555/f1ow-claude",
+  "repository": "https://github.com/oxygen1/f1ow-claude",
+  "license": "MIT",
   "keywords": [
     "crypto",
     "market-data",
