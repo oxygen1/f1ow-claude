@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "f1ow": {
+      "type": "http",
+      "oauth_resource": "https://mcp.f1ow.com/mcp",
+      "url": "https://mcp.f1ow.com/mcp"
+    }
+  }
+}

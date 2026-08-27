@@ -1,0 +1,23 @@
+{
+  "name": "f1ow",
+  "displayName": "f1ow",
+  "version": "0.1.0",
+  "description": "Crypto market data and research in Claude Code: price, derivatives, on-chain, sentiment, news, and catalysts, over f1ow's hosted MCP server. Sign in with OAuth on first use — no API key to paste.",
+  "author": {
+    "name": "f1ow",
+    "url": "https://www.f1ow.com"
+  },
+  "homepage": "https://www.f1ow.com",
+  "repository": "https://github.com/104555/f1ow-claude",
+  "keywords": [
+    "crypto",
+    "market-data",
+    "derivatives",
+    "on-chain",
+    "sentiment",
+    "news",
+    "research",
+    "mcp"
+  ],
+  "mcpServers": "./.mcp.json"
+}
